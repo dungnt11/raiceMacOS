@@ -1,0 +1,16 @@
+yabai -m config window_border                on
+yabai -m config active_window_border_color   0xff4faaea
+yabai -m config normal_window_border_color   0xff0e4b77
+yabai -m config insert_feedback_color        0xffd75f5f
+
+yabai -m config debug_output on
+
+yabai -m config top_padding    10
+yabai -m config bottom_padding 10
+yabai -m config left_padding   10
+yabai -m config right_padding  10
+yabai -m config window_gap     10
+
+yabai -m config mouse_modifier ctrl
+yabai -m config mouse_action1 move
+yabai -m config mouse_action2 resize
