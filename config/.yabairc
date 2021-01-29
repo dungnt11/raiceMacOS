@@ -2,6 +2,7 @@ yabai -m config window_border                on
 yabai -m config active_window_border_color   0xff4faaea
 yabai -m config normal_window_border_color   0xff0e4b77
 yabai -m config insert_feedback_color        0xffd75f5f
+yabai -m config window_border_width          2
 
 yabai -m config debug_output on
 
